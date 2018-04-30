@@ -1,28 +1,26 @@
-public class chicken implements burgerItem {
-
+public class beef implements burgerItem {
     @Override
     public String Name() {
-        return "chicken burger";
+        return "beef burger";
     }
 
     @Override
     public String Patty() {
-        return "bbq";
+        return "beef sizzling";
     }
 
     @Override
     public String chesse() {
-        return "permissian";
+        return "Mozzarella";
     }
 
     @Override
     public String sauce() {
-        return "mayo";
+        return "bbq";
     }
 
     @Override
     public double price() {
-        return 270;
+        return 290;
     }
 }
-

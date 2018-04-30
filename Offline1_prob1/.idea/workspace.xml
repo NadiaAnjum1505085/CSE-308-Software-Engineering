@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d90f0c0-8c38-4ec0-aece-722e1b36252b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chicken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/beef.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chicken.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chicken.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -54,11 +55,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="chicken.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="chicken.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/chicken.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+            <state relative-caret-position="249">
+              <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
               <folding>
                 <element signature="e#85#86#0" expanded="true" />
                 <element signature="e#112#113#0" expanded="true" />
@@ -70,6 +71,27 @@
                 <element signature="e#323#324#0" expanded="true" />
                 <element signature="e#366#367#0" expanded="true" />
                 <element signature="e#390#391#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="beef.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/beef.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+              <folding>
+                <element signature="e#81#82#0" expanded="true" />
+                <element signature="e#108#109#0" expanded="true" />
+                <element signature="e#151#152#0" expanded="true" />
+                <element signature="e#178#179#0" expanded="true" />
+                <element signature="e#222#223#0" expanded="true" />
+                <element signature="e#249#250#0" expanded="true" />
+                <element signature="e#292#293#0" expanded="true" />
+                <element signature="e#319#320#0" expanded="true" />
+                <element signature="e#362#363#0" expanded="true" />
+                <element signature="e#386#387#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -96,6 +118,7 @@
         <option value="$PROJECT_DIR$/src/burger.java" />
         <option value="$PROJECT_DIR$/src/chef.java" />
         <option value="$PROJECT_DIR$/src/chicken.java" />
+        <option value="$PROJECT_DIR$/src/beef.java" />
       </list>
     </option>
   </component>
@@ -285,8 +308,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/chicken.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        <state relative-caret-position="249">
+          <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
           <folding>
             <element signature="e#85#86#0" expanded="true" />
             <element signature="e#112#113#0" expanded="true" />
@@ -298,6 +321,25 @@
             <element signature="e#323#324#0" expanded="true" />
             <element signature="e#366#367#0" expanded="true" />
             <element signature="e#390#391#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/beef.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+          <folding>
+            <element signature="e#81#82#0" expanded="true" />
+            <element signature="e#108#109#0" expanded="true" />
+            <element signature="e#151#152#0" expanded="true" />
+            <element signature="e#178#179#0" expanded="true" />
+            <element signature="e#222#223#0" expanded="true" />
+            <element signature="e#249#250#0" expanded="true" />
+            <element signature="e#292#293#0" expanded="true" />
+            <element signature="e#319#320#0" expanded="true" />
+            <element signature="e#362#363#0" expanded="true" />
+            <element signature="e#386#387#0" expanded="true" />
           </folding>
         </state>
       </provider>
