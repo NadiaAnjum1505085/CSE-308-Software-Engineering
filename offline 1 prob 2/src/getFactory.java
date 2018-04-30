@@ -4,7 +4,7 @@ public class getFactory {
     {
 
     }
-    private static coffeeFactory coffee()
+    public static coffeeFactory coffee()
     {
         return coff;
     }
