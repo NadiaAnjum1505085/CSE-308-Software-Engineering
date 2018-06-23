@@ -11,6 +11,7 @@ public class InfoTransCen {
             System.out.println("You are already registererd");
             return;
         }
+        System.out.println("The student has been registered.");
         student.add(s);
     }
     public void unregister(Students s)
@@ -21,7 +22,7 @@ public class InfoTransCen {
             System.out.println(s.getname()+" has been removed");
             return;
         }
-        System.out.println("You are not registered.");
+        System.out.println("The student has not registered.");
 
 
     }

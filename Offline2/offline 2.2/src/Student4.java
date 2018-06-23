@@ -3,7 +3,7 @@ public class Student4 implements Students {
     String phone="0191213565";
     @Override
     public void getText(String s) {
-        System.out.print("Receiver: "+name+" \n"+"Message : "+s+"\n"+"Sent to: "+phone);
+        System.out.println("Receiver: "+name+" \n"+"Message : "+s+"\n"+"Sent to: "+phone);
     }
 
     @Override
