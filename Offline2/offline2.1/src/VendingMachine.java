@@ -13,6 +13,25 @@ public class VendingMachine {
 
     }
 
+    public int getproductamount(int c)
+    {
+      return   products[c].GetproductNumber();
+
+    }
+    public int getproductprice(int c)
+    {
+        return   products[c].getPrice();
+
+    }
+    public int getBalance()
+    {
+        return balance;
+    }
+    public void getproduct(int c)
+    {
+        products[c].getProduct();
+        balance=balance+products[c].getPrice();
+    }
     public void Setstate(State state)
     {
         this.state=state;

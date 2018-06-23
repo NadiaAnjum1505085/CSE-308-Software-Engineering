@@ -1,7 +1,7 @@
 public class Dew implements VendingProducts {
     int p=30;
     String s="Mountain Dew";
-    int number=50;
+    int number=1;
 
     @Override
     public int getPrice() {
